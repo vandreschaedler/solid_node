@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vandreschaedler/solid_node/issues"
   },
-  "homepage": "https://github.com/vandreschaedler/solid_node#readme"
+  "homepage": "https://github.com/vandreschaedler/solid_node#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.0.7"
+  }
 }
