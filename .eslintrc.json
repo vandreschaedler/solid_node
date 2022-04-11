@@ -5,8 +5,7 @@
         "jest/globals": true
     },
     "extends": [
-        "standard",
-        "prettier"
+        "standard"
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
@@ -18,5 +17,6 @@
         "jest"
     ],
     "rules": {
+        "comma-dangle":"off"
     }
 }
