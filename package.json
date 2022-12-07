@@ -1,0 +1,22 @@
+{
+  "name": "solid-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandreschaedler/solid_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vandreschaedler/solid_node/issues"
+  },
+  "homepage": "https://github.com/vandreschaedler/solid_node#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.4.0"
+  }
+}
